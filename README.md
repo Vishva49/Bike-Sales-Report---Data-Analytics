@@ -1,0 +1,1 @@
+my first data analyst project on bike buyers, I gained insights into consumer behavior patterns based on demographics and location.![report](https://github.com/Vishva49/Bike-Sales-Report---Data-Analytics/assets/163314842/ec119a78-49aa-4619-a8cb-5e4804982e08)
